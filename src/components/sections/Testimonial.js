@@ -36,12 +36,6 @@ const Testimonial = () => {
             <div className="carousel-item active">
               <div className="testimonial-item bg-light rounded p-4">
                 <div className="d-flex align-items-center mb-4">
-                  {/* <img
-                    className="flex-shrink-0 rounded-circle"
-                    src="img/testimonial-1.jpg"
-                    style={{ width: "70px", height: "70px" }}
-                    alt=""
-                  /> */}
                   <div className="ms-4">
                     <h5 className="mb-1">Kaycee Lightings</h5>
                     <span>Electronics eCommerce site</span>
@@ -63,12 +57,6 @@ const Testimonial = () => {
             <div className="carousel-item">
               <div className="testimonial-item bg-light rounded p-4">
                 <div className="d-flex align-items-center mb-4">
-                  {/* <img
-                    className="flex-shrink-0 rounded-circle"
-                    src="img/testimonial-2.jpg"
-                    style={{ width: "70px", height: "70px" }}
-                    alt=""
-                  /> */}
                   <div className="ms-4">
                     <h5 className="mb-1">Coursify</h5>
                     <span>Educational App</span>
