@@ -79,7 +79,7 @@ const AboutPage = () => {
                 <img
                   className="position-absolute w-100 h-100 rounded wow zoomIn"
                   data-wow-delay="0.9s"
-                  src="/img/about.jpg"
+                  src="/img/about.png"
                   style={{ objectFit: "cover" }}
                   alt="About"
                 />
